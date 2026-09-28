@@ -16,6 +16,8 @@ fab outputs, all done in Altium Designer.
 
 - [**esp32-wroom-dev-board**](https://github.com/HazemMoHashim/esp32-wroom-dev-board) — ESP32-WROOM-32E dev board: schematic + 2-layer PCB
 - [**ne555-timer-board**](https://github.com/HazemMoHashim/ne555-timer-board) — NE555 timer board (DRC 13/13 clean)
+- [**clamp-detection-yolo**](https://github.com/HazemMoHashim/clamp-detection-yolo) — YOLOv11 clamp detection on rig footage (trained weights + pipeline)
+- [**local-race-engineer**](https://github.com/HazemMoHashim/local-race-engineer) — Offline AI race engineer: Ollama LLM + local TTS radio calls
 
 ## 🏁 Beyond engineering
 
